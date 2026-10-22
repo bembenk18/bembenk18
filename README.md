@@ -1,16 +1,89 @@
+<div align="center">
+  <h1>Bayu Putra Herlambang</h1>
+  <p><em>"Learn what you want, share what you know"</em></p>
 
+  <p>
+    <b>Network Administrator</b> &nbsp;•&nbsp; <b>Linux & Open Source Enthusiast</b> &nbsp;•&nbsp; <b>Web Developer</b>
+  </p>
 
+  <p>
+    <a href="https://linkedin.com/in/bayuputra-5a4045202" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/dmtry18" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://kudos.opensuse.org/badge/osas2026/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/openSUSE_Kudos-osas2026-73BA25?style=flat-square&logo=opensuse&logoColor=white" alt="openSUSE Kudos" />
+    </a>
+  </p>
+</div>
 
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=bembenk18&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Bayu's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bembenk18&count_private=true&theme=radical" alt="Bayu" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bembenk18&count_private=true&theme=radical" alt="Bayu" />
+### 👨‍💻 About Me
 
-----
-# Badges
-[![@bembenk18's Holopin board](https://holopin.io/api/user/board?user=bembenk18)](https://holopin.io/@bembenk18)
+- 🐧 **Linux & Open Source**: Passionate open-source enthusiast and active member of the **openSUSE** community.
+- 🌐 **Networking & SysAdmin**: Experienced in MikroTik RouterOS, GPON/OLT infrastructure, and server automation.
+- 💻 **Development**: Building practical tools and web applications with Python, JavaScript, and Node.js.
+- 📍 Based in **Indonesia** 🇮🇩.
 
-<!--START_SECTION:badges-->
-<img src="https://media.licdn.com/dms/image/sync/D4D27AQF5VeSR22Y9wQ/articleshare-shrink_1280_800/0/1686235030584?e=1687845600&v=beta&t=41RkpnR4Wj0rv63DAi3Oa4UT5N9zbQ9xEoiFhyUB4xQ"  width="300" height="150">
+---
 
-<!--END_SECTION:badges-->
+### 🛠️ Tech Stack & Tools
+
+- **Operating Systems & Linux:**  
+  ![openSUSE](https://img.shields.io/badge/openSUSE-173F49?style=flat-square&logo=opensuse&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+- **Networking & Infrastructure:**  
+  ![MikroTik](https://img.shields.io/badge/MikroTik-29323D?style=flat-square&logo=mikrotik&logoColor=white)
+  ![RouterOS](https://img.shields.io/badge/RouterOS-1E242B?style=flat-square&logo=mikrotik&logoColor=white)
+  ![GPON / FTTH](https://img.shields.io/badge/FTTH-GPON%20%2F%20OLT-0366D6?style=flat-square)
+
+- **Programming & Scripting:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+- **Databases & Version Control:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+### 🎖️ Badges & Recognition
+
+<div align="center">
+  <a href="https://kudos.opensuse.org/badge/osas2026/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">
+    <img src="https://kudos.opensuse.org/badges/previews/800/osas2026.png" width="135" alt="openSUSE Asia Summit 2026 Badge" />
+  </a>
+  <p>
+    <b>openSUSE Asia Summit 2026</b><br />
+    <sub>Verified on <a href="https://kudos.opensuse.org/badge/osas2026/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">openSUSE Kudos</a></sub>
+  </p>
+
+  <br />
+
+  <a href="https://holopin.io/@bembenk18" target="_blank" rel="noopener noreferrer">
+    <img src="https://holopin.io/api/user/board?user=bembenk18" alt="@bembenk18's Holopin Board" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bembenk18&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=bembenk18&hide_border=true&theme=tokyonight" height="180" alt="Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bembenk18&hide_border=true&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
+</div>
