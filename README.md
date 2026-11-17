@@ -10,11 +10,11 @@
     <a href="https://linkedin.com/in/bayuputra-5a4045202" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://t.me/dmtry18" target="_blank" rel="noopener noreferrer">
+    <a href="https://t.me/N1xRoot" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://kudos.opensuse.org/badge/osas2026/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/openSUSE_Kudos-osas2026-73BA25?style=flat-square&logo=opensuse&logoColor=white" alt="openSUSE Kudos" />
+    <a href="mailto:bembenk@opensuse.org">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
@@ -58,16 +58,6 @@
 ### 🎖️ Badges & Recognition
 
 <div align="center">
-  <a href="https://kudos.opensuse.org/badge/osas2026/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">
-    <img src="https://kudos.opensuse.org/badges/previews/800/osas2026.png" width="135" alt="openSUSE Asia Summit 2026 Badge" />
-  </a>
-  <p>
-    <b>openSUSE Asia Summit 2026</b><br />
-    <sub>Verified on <a href="https://kudos.opensuse.org/badge/osas2026/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">openSUSE Kudos</a></sub>
-  </p>
-
-  <br />
-
   <a href="https://holopin.io/@bembenk18" target="_blank" rel="noopener noreferrer">
     <img src="https://holopin.io/api/user/board?user=bembenk18" alt="@bembenk18's Holopin Board" />
   </a>
