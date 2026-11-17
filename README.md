@@ -58,6 +58,25 @@
 ### 🎖️ Badges & Recognition
 
 <div align="center">
+  <!-- KUDOS_BADGES:START -->
+  <a href="https://kudos.opensuse.org/badge/leap-161-release-party/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">
+    <img src="https://kudos.opensuse.org/badges/previews/800/leap161-release-party.png" width="115" alt="Leap 16.1 Release Party" title="Leap 16.1 Release Party" />
+  </a>
+  &nbsp;
+  <a href="https://kudos.opensuse.org/badge/wiki-1/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">
+    <img src="https://kudos.opensuse.org/badges/previews/800/wiki-1.png" width="115" alt="First Wiki Contribution" title="First Wiki Contribution" />
+  </a>
+  &nbsp;
+  <a href="https://kudos.opensuse.org/badge/osas2026/earned-by/bembenk/share" target="_blank" rel="noopener noreferrer">
+    <img src="https://kudos.opensuse.org/badges/previews/800/osas2026.png" width="115" alt="openSUSE Asia Summit 2026" title="openSUSE Asia Summit 2026" />
+  </a>
+  <p>
+    <sub>Verified on <a href="https://kudos.opensuse.org/user/bembenk" target="_blank" rel="noopener noreferrer">openSUSE Kudos</a></sub>
+  </p>
+  <!-- KUDOS_BADGES:END -->
+
+  <br />
+
   <a href="https://holopin.io/@bembenk18" target="_blank" rel="noopener noreferrer">
     <img src="https://holopin.io/api/user/board?user=bembenk18" alt="@bembenk18's Holopin Board" />
   </a>
